@@ -12,6 +12,9 @@ clock = pygame.time.Clock()
 key = False
 
 
+# Пометка Алексея
+
+
 def terminate():
     pygame.quit()
     sys.exit()
