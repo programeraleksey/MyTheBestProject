@@ -12,7 +12,7 @@ clock = pygame.time.Clock()
 key = False
 
 
-# Пометка Алексея
+# Пометка Алексея 2
 
 
 def terminate():
